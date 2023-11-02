@@ -1,0 +1,16 @@
+{
+  "type": "mysticalsteamage:double_furnace",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.75,
+  "group": "steel_ingot",
+  "ingredient1": {
+    "tag": "forge:ingots/iron"
+  },
+  "ingredient2": {
+    "tag": "forge:dusts/sulphur"
+  },
+  "result": {
+    "item": "mysticalsteamage:steel_ingot"
+  }
+}

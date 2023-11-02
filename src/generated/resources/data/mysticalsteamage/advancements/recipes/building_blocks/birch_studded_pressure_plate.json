@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_birch_iron_studded_block": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mysticalsteamage:birch_iron_studded_block"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mysticalsteamage:birch_studded_pressure_plate"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_birch_iron_studded_block",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mysticalsteamage:birch_studded_pressure_plate"
+    ]
+  },
+  "sends_telemetry_event": false
+}

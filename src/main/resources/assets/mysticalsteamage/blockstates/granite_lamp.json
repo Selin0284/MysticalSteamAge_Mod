@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mysticalsteamage:block/granite_lamp"
+    },
+    "lit=true": {
+      "model": "mysticalsteamage:block/granite_lamp_on"
+    }
+  }
+}

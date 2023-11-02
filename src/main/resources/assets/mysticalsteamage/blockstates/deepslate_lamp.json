@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mysticalsteamage:block/deepslate_lamp"
+    },
+    "lit=true": {
+      "model": "mysticalsteamage:block/deepslate_lamp_on"
+    }
+  }
+}

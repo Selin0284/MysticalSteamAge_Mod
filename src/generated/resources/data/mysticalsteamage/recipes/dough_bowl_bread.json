@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalsteamage:meal"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "mysticalsteamage:dough_bowl_bread"
+  }
+}

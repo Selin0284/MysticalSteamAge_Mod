@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_marble_brick": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mysticalsteamage:marble_brick"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mysticalsteamage:marble_bricks_stairs_from_marble_brick_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_marble_brick",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mysticalsteamage:marble_bricks_stairs_from_marble_brick_stonecutting"
+    ]
+  },
+  "sends_telemetry_event": false
+}

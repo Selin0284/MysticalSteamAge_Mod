@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "mysticalsteamage:block/cloud_bush_bottom"
+    },
+    "half=upper": {
+      "model": "mysticalsteamage:block/cloud_bush_top"
+    }
+  }
+}

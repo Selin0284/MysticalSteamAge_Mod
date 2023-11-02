@@ -1,0 +1,8 @@
+{
+  "parent": "mysticalsteamage:block/cube_horizontal",
+  "textures": {
+    "side": "mysticalsteamage:block/feather_herb_block_side",
+    "bottom": "mysticalsteamage:block/feather_herb_block_bottom",
+    "top": "mysticalsteamage:block/feather_herb_block_top"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mysticalsteamage:block/andesite_lamp"
+    },
+    "lit=true": {
+      "model": "mysticalsteamage:block/andesite_lamp_on"
+    }
+  }
+}

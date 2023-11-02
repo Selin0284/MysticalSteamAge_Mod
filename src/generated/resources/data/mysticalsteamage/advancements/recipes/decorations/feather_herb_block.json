@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_feather_herb_leaf": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mysticalsteamage:feather_herb_leaf"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mysticalsteamage:feather_herb_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_feather_herb_leaf",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mysticalsteamage:feather_herb_block"
+    ]
+  },
+  "sends_telemetry_event": false
+}

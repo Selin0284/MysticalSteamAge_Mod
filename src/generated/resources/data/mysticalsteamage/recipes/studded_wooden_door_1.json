@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "tag": "mysticalsteamage:iron_studded_wood"
+    },
+    "X": {
+      "item": "minecraft:glass"
+    }
+  },
+  "pattern": [
+    "XX",
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 3,
+    "item": "mysticalsteamage:studded_wooden_door_1"
+  },
+  "show_notification": true
+}

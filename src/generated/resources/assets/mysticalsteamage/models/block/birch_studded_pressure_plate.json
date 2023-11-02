@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/pressure_plate_up",
+  "textures": {
+    "texture": "mysticalsteamage:block/birch_iron_studded_block"
+  }
+}

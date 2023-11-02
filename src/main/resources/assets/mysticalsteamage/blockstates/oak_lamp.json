@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mysticalsteamage:block/oak_lamp"
+    },
+    "lit=true": {
+      "model": "mysticalsteamage:block/oak_lamp_on"
+    }
+  }
+}

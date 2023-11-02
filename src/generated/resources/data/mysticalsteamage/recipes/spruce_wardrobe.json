@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "O": {
+      "item": "minecraft:spruce_trapdoor"
+    },
+    "X": {
+      "item": "minecraft:spruce_planks"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "O#O",
+    "XXX"
+  ],
+  "result": {
+    "count": 2,
+    "item": "mysticalsteamage:spruce_wardrobe"
+  },
+  "show_notification": true
+}

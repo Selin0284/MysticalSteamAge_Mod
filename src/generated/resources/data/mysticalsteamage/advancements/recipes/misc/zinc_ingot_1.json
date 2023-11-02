@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mysticalsteamage:zinc_ingot_1"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_zinc_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mysticalsteamage:zinc_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_zinc_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mysticalsteamage:zinc_ingot_1"
+    ]
+  },
+  "sends_telemetry_event": false
+}

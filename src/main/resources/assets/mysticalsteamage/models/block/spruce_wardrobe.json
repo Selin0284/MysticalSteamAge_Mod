@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "minecraft:block/spruce_planks",
+    "front": "mysticalsteamage:block/spruce_wardrobe",
+    "side": "minecraft:block/spruce_planks"
+  }
+}

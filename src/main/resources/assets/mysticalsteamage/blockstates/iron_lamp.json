@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mysticalsteamage:block/iron_lamp"
+    },
+    "lit=true": {
+      "model": "mysticalsteamage:block/iron_lamp_on"
+    }
+  }
+}

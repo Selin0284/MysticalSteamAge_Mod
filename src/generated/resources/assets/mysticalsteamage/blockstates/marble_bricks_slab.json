@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mysticalsteamage:block/marble_bricks_slab"
+    },
+    "type=double": {
+      "model": "mysticalsteamage:block/marble_brick"
+    },
+    "type=top": {
+      "model": "mysticalsteamage:block/marble_bricks_slab_top"
+    }
+  }
+}

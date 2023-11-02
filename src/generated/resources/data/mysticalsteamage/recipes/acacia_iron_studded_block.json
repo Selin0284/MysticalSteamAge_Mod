@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "mysticalsteamage:iron_nail"
+    },
+    "X": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "pattern": [
+    "X#X",
+    "X#X",
+    "X#X"
+  ],
+  "result": {
+    "count": 6,
+    "item": "mysticalsteamage:acacia_iron_studded_block"
+  },
+  "show_notification": true
+}

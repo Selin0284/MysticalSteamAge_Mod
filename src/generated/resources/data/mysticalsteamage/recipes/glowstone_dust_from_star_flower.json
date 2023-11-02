@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "glowstone_dust",
+  "ingredients": [
+    {
+      "item": "mysticalsteamage:star_flower"
+    }
+  ],
+  "result": {
+    "item": "minecraft:glowstone_dust"
+  }
+}

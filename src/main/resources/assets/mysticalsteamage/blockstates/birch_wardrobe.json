@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "mysticalsteamage:block/birch_wardrobe"
+    },
+    "facing=east": {
+      "model": "mysticalsteamage:block/birch_wardrobe",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mysticalsteamage:block/birch_wardrobe"
+    },
+    "facing=south": {
+      "model": "mysticalsteamage:block/birch_wardrobe",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "mysticalsteamage:block/birch_wardrobe"
+    },
+    "facing=west": {
+      "model": "mysticalsteamage:block/birch_wardrobe",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mysticalsteamage:block/cobblestone_lamp"
+    },
+    "lit=true": {
+      "model": "mysticalsteamage:block/cobblestone_lamp_on"
+    }
+  }
+}

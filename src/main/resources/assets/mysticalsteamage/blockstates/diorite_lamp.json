@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mysticalsteamage:block/diorite_lamp"
+    },
+    "lit=true": {
+      "model": "mysticalsteamage:block/diorite_lamp_on"
+    }
+  }
+}

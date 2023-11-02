@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "mysticalsteamage:block/jungle_wardrobe"
+    },
+    "facing=east": {
+      "model": "mysticalsteamage:block/jungle_wardrobe",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mysticalsteamage:block/jungle_wardrobe"
+    },
+    "facing=south": {
+      "model": "mysticalsteamage:block/jungle_wardrobe",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "mysticalsteamage:block/jungle_wardrobe"
+    },
+    "facing=west": {
+      "model": "mysticalsteamage:block/jungle_wardrobe",
+      "y": 270
+    }
+  }
+}

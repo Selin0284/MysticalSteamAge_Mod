@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "mysticalsteamage:marble"
+  },
+  "result": "mysticalsteamage:polished_marble_stairs"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "O": {
+      "item": "minecraft:birch_trapdoor"
+    },
+    "X": {
+      "item": "minecraft:birch_planks"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "O#O",
+    "XXX"
+  ],
+  "result": {
+    "count": 2,
+    "item": "mysticalsteamage:birch_wardrobe"
+  },
+  "show_notification": true
+}

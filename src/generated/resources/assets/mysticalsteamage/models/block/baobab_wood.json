@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "mysticalsteamage:block/baobab_log",
+    "side": "mysticalsteamage:block/baobab_log"
+  }
+}

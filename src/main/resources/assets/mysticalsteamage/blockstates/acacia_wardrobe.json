@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "mysticalsteamage:block/acacia_wardrobe"
+    },
+    "facing=east": {
+      "model": "mysticalsteamage:block/acacia_wardrobe",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mysticalsteamage:block/acacia_wardrobe"
+    },
+    "facing=south": {
+      "model": "mysticalsteamage:block/acacia_wardrobe",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "mysticalsteamage:block/acacia_wardrobe"
+    },
+    "facing=west": {
+      "model": "mysticalsteamage:block/acacia_wardrobe",
+      "y": 270
+    }
+  }
+}

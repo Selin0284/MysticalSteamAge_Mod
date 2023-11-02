@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "mysticalsteamage:block/cloud_bush_top"
+  }
+}

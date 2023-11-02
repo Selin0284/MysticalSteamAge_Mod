@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mysticalsteamage:block/marble_black_lamp"
+    },
+    "lit=true": {
+      "model": "mysticalsteamage:block/marble_black_lamp_on"
+    }
+  }
+}

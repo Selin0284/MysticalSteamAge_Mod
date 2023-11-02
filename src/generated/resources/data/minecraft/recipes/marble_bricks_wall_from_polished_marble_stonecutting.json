@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "mysticalsteamage:polished_marble"
+  },
+  "result": "mysticalsteamage:marble_bricks_wall"
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "mysticalsteamage:block/shadow_fern_bottom"
+    },
+    "half=upper": {
+      "model": "mysticalsteamage:block/shadow_fern_top"
+    }
+  }
+}

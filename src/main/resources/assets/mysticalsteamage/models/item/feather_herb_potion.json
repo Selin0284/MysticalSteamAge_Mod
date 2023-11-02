@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mysticalsteamage:item/big_glass_bottle",
+    "layer1": "mysticalsteamage:item/big_glass_bottle_overlay"
+  }
+}

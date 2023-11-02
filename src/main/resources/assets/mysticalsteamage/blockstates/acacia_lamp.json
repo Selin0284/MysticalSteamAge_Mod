@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mysticalsteamage:block/acacia_lamp"
+    },
+    "lit=true": {
+      "model": "mysticalsteamage:block/acacia_lamp_on"
+    }
+  }
+}

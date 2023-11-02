@@ -1,0 +1,16 @@
+{
+  "type": "mysticalsteamage:double_furnace",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.75,
+  "group": "ham",
+  "ingredient1": {
+    "tag": "mysticalsteamage:ham_meat"
+  },
+  "ingredient2": {
+    "tag": "forge:dusts/salt"
+  },
+  "result": {
+    "item": "mysticalsteamage:ham"
+  }
+}

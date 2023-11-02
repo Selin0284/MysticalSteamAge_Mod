@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "O": {
+      "item": "mysticalsteamage:baobab_trapdoor"
+    },
+    "X": {
+      "item": "mysticalsteamage:baobab_planks"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "O#O",
+    "XXX"
+  ],
+  "result": {
+    "count": 2,
+    "item": "mysticalsteamage:baobab_wardrobe"
+  },
+  "show_notification": true
+}

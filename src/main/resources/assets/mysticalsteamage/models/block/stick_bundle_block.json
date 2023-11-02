@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "mysticalsteamage:block/stick_bundle_top",
+    "side": "mysticalsteamage:block/stick_bundle_side"
+  }
+}

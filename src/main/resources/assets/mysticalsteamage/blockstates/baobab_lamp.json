@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mysticalsteamage:block/baobab_lamp"
+    },
+    "lit=true": {
+      "model": "mysticalsteamage:block/baobab_lamp_on"
+    }
+  }
+}

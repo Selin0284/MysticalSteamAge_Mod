@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mysticalsteamage:block/dark_oak_iron_studded_block"
+  }
+}

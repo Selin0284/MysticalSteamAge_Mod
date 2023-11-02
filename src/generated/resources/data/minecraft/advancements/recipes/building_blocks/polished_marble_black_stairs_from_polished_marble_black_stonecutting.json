@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_polished_marble_black": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mysticalsteamage:polished_marble_black"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:polished_marble_black_stairs_from_polished_marble_black_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_polished_marble_black",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:polished_marble_black_stairs_from_polished_marble_black_stonecutting"
+    ]
+  },
+  "sends_telemetry_event": false
+}

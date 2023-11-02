@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "mysticalsteamage:block/silver_umbrella_bottom"
+    },
+    "half=upper": {
+      "model": "mysticalsteamage:block/silver_umbrella_top"
+    }
+  }
+}

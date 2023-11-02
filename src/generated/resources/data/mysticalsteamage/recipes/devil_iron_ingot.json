@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalsteamage:devil_iron_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "mysticalsteamage:devil_iron_ingot"
+  }
+}

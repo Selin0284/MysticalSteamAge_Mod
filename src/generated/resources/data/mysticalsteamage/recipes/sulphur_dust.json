@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalsteamage:raw_sulphur"
+    }
+  ],
+  "result": {
+    "item": "mysticalsteamage:sulphur_dust"
+  }
+}

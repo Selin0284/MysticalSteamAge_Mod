@@ -1,0 +1,8 @@
+{
+  "type": "mysticalsteamage:carpenter_workbench",
+  "count": 2,
+  "ingredient": {
+    "item": "mysticalsteamage:baobab_planks"
+  },
+  "result": "mysticalsteamage:baobab_slab"
+}

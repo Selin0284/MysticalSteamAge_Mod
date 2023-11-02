@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "mysticalsteamage:block/silver_umbrella_bottom"
+  }
+}

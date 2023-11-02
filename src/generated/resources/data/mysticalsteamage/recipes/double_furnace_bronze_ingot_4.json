@@ -1,0 +1,18 @@
+{
+  "type": "mysticalsteamage:double_furnace",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.75,
+  "group": "bronze_ingot",
+  "ingredient1": {
+    "count": 3,
+    "tag": "forge:ingots/copper"
+  },
+  "ingredient2": {
+    "tag": "forge:raw_materials/tin"
+  },
+  "result": {
+    "count": 4,
+    "item": "mysticalsteamage:bronze_ingot"
+  }
+}

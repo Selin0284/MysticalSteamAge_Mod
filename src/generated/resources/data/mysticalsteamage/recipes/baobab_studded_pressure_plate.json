@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "mysticalsteamage:baobab_iron_studded_block"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "item": "mysticalsteamage:baobab_studded_pressure_plate"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_dough_bowl_potato_bread": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mysticalsteamage:dough_bowl_potato_bread"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mysticalsteamage:potato_bread"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_dough_bowl_potato_bread",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mysticalsteamage:potato_bread"
+    ]
+  },
+  "sends_telemetry_event": false
+}

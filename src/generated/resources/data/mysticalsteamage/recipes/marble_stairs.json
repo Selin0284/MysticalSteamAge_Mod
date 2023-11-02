@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": [
+      {
+        "item": "mysticalsteamage:marble"
+      },
+      {
+        "item": "mysticalsteamage:marble_pillar"
+      }
+    ]
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "mysticalsteamage:marble_stairs"
+  },
+  "show_notification": true
+}

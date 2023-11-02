@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mysticalsteamage:white_hardened_leather_leggings"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_white_hardened_leather": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mysticalsteamage:white_hardened_leather"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_white_hardened_leather",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mysticalsteamage:white_hardened_leather_leggings"
+    ]
+  },
+  "sends_telemetry_event": false
+}

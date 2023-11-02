@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "tag": "forge:ingots/copper"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "X#X",
+    " # "
+  ],
+  "result": {
+    "item": "mysticalsteamage:copper_war_axe"
+  },
+  "show_notification": true
+}

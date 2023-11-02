@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mysticalsteamage:block/feather_herb_stage3"
+  }
+}

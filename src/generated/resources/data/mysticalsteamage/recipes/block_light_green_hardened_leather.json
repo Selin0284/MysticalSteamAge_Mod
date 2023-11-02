@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "mysticalsteamage:light_green_hardened_leather"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 4,
+    "item": "mysticalsteamage:block_light_green_hardened_leather"
+  },
+  "show_notification": true
+}

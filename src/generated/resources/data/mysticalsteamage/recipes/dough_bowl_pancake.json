@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mysticalsteamage:meal"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "mysticalsteamage:bottle_milk"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "mysticalsteamage:dough_bowl_pancake"
+  }
+}

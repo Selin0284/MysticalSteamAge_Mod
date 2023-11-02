@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mysticalsteamage:block/sand_stone_lamp"
+    },
+    "lit=true": {
+      "model": "mysticalsteamage:block/sand_stone_lamp_on"
+    }
+  }
+}

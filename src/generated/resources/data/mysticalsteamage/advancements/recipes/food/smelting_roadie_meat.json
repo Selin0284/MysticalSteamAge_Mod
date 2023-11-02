@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_roadie_meat": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mysticalsteamage:raw_roadie_meat"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mysticalsteamage:smelting_roadie_meat"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_raw_roadie_meat",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mysticalsteamage:smelting_roadie_meat"
+    ]
+  },
+  "sends_telemetry_event": false
+}

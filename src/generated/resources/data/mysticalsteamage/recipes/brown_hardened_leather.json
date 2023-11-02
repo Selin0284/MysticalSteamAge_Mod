@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "mysticalsteamage:blumento_leather"
+    },
+    "X": {
+      "item": "mysticalsteamage:iron_nail"
+    }
+  },
+  "pattern": [
+    "X X",
+    "X#X",
+    "X#X"
+  ],
+  "result": {
+    "count": 2,
+    "item": "mysticalsteamage:brown_hardened_leather"
+  },
+  "show_notification": true
+}

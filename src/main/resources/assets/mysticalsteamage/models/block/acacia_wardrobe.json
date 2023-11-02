@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "minecraft:block/acacia_planks",
+    "front": "mysticalsteamage:block/acacia_wardrobe",
+    "side": "minecraft:block/acacia_planks"
+  }
+}

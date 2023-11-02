@@ -1,0 +1,17 @@
+{
+  "type": "mysticalsteamage:double_furnace",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.75,
+  "group": "nail",
+  "ingredient1": {
+    "tag": "forge:ingots/gold"
+  },
+  "ingredient2": {
+    "tag": "mysticalsteamage:sand_mold"
+  },
+  "result": {
+    "count": 16,
+    "item": "mysticalsteamage:gold_nail"
+  }
+}

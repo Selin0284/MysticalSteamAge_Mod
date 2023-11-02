@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "mysticalsteamage:block/acacia_studded_pressure_plate"
+    },
+    "powered=true": {
+      "model": "mysticalsteamage:block/acacia_studded_pressure_plate_down"
+    }
+  }
+}

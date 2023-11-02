@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "mysticalsteamage:marble_black"
+  },
+  "result": "mysticalsteamage:marble_black_wall"
+}

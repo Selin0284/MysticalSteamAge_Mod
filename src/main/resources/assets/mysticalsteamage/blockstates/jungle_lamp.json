@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mysticalsteamage:block/jungle_lamp"
+    },
+    "lit=true": {
+      "model": "mysticalsteamage:block/jungle_lamp_on"
+    }
+  }
+}

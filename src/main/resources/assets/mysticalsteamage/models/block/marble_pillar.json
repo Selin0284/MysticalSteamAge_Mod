@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "mysticalsteamage:block/polished_marble",
+    "side": "mysticalsteamage:block/marble_column"
+  }
+}

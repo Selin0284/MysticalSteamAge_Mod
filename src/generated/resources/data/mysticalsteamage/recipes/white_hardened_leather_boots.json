@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": {
+      "item": "mysticalsteamage:white_hardened_leather"
+    }
+  },
+  "pattern": [
+    "X X",
+    "X X"
+  ],
+  "result": {
+    "item": "mysticalsteamage:white_hardened_leather_boots"
+  },
+  "show_notification": true
+}

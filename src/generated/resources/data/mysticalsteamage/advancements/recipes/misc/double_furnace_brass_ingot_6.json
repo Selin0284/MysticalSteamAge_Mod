@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mysticalsteamage:double_furnace_brass_ingot_6"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_zinc_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mysticalsteamage:zinc_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_zinc_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mysticalsteamage:double_furnace_brass_ingot_6"
+    ]
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "minecraft:block/blast_furnace_top",
+    "front": "mysticalsteamage:block/double_furnace_off",
+    "side": "minecraft:block/blast_furnace_side"
+  }
+}

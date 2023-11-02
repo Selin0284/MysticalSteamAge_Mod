@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "mysticalsteamage:block/marble_brick",
+    "side": "mysticalsteamage:block/marble_brick",
+    "top": "mysticalsteamage:block/marble_brick"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "mysticalsteamage:block/camas_2"
+  }
+}

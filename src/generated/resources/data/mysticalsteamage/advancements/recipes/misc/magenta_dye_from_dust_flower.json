@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_dust_flower": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mysticalsteamage:dust_flower"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mysticalsteamage:magenta_dye_from_dust_flower"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_dust_flower",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mysticalsteamage:magenta_dye_from_dust_flower"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "forge:leather"
+    }
+  },
+  "pattern": [
+    "  #",
+    "###",
+    " # "
+  ],
+  "result": {
+    "item": "mysticalsteamage:roadie_leather_armor"
+  },
+  "show_notification": true
+}

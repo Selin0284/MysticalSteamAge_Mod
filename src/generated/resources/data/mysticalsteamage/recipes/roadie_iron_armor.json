@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "pattern": [
+    "  #",
+    "###",
+    " # "
+  ],
+  "result": {
+    "item": "mysticalsteamage:roadie_iron_armor"
+  },
+  "show_notification": true
+}

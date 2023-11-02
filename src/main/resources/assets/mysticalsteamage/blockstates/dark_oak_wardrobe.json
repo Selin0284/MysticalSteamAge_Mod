@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "mysticalsteamage:block/dark_oak_wardrobe"
+    },
+    "facing=east": {
+      "model": "mysticalsteamage:block/dark_oak_wardrobe",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mysticalsteamage:block/dark_oak_wardrobe"
+    },
+    "facing=south": {
+      "model": "mysticalsteamage:block/dark_oak_wardrobe",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "mysticalsteamage:block/dark_oak_wardrobe"
+    },
+    "facing=west": {
+      "model": "mysticalsteamage:block/dark_oak_wardrobe",
+      "y": 270
+    }
+  }
+}

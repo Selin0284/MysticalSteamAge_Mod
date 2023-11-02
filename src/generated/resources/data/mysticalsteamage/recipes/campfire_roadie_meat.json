@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "mysticalsteamage:raw_roadie_meat"
+  },
+  "result": "mysticalsteamage:cooked_roadie_meat"
+}

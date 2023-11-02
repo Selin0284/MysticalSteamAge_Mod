@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "tag": "forge:gems/diamond"
+    }
+  },
+  "pattern": [
+    "  #",
+    "###",
+    " # "
+  ],
+  "result": {
+    "item": "mysticalsteamage:roadie_diamond_armor"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mysticalsteamage:block/nether_devil_iron_ore"
+  }
+}

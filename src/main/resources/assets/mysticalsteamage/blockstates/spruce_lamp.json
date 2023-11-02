@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "mysticalsteamage:block/spruce_lamp"
+    },
+    "lit=true": {
+      "model": "mysticalsteamage:block/spruce_lamp_on"
+    }
+  }
+}
